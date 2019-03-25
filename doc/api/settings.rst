@@ -176,7 +176,7 @@ Exemplary Response
 Get translations based on the code
 ----------------------------------
 
-To retrieve a paginated list of translations you will need to call the ``/api/admin/translations/<key>`` endpoint with the ``GET`` method.
+To retrieve a paginated list of translations you will need to call the ``/api/admin/translations/<code>`` endpoint with the ``GET`` method.
 
 
 Definition
